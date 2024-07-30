@@ -1,0 +1,4 @@
+  "AadClientId": "1c8c8b26-6a04-4dcf-be02-1312d7b7367a",
+  "AadSecret": "q4L8Q~-ldF8ZW05owTIR7HY0~uairs39SLPUab~w",
+  "AadTenantDomain": "imanagecloud.onmicrosoft.com",
+  "AadTenantId": "2376575d-0ebf-4a45-87a3-d66d6f10d569",
